@@ -1,8 +1,8 @@
 #!/bin/bash
 
-AUTHOR="Maple"
-VPN="Cisco SG for Maple"
-DOMAIN="miao.hu"
+AUTHOR="ZYH"
+VPN="Cisco SG for ZYH"
+DOMAIN="116.251.208.162"
 CLIENT="user"
 
 cd /opt/ocserv
